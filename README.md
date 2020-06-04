@@ -1,2 +1,2 @@
-# Cleyon
-A music notation editor in typescript, jquery
+# arggio
+A music creation service
