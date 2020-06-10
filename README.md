@@ -2,20 +2,20 @@
 
 A music creation service
 
-# Introduction
+## Introduction
 
 User Interface is based on [AdminLTE theme](https://github.com/ColorlibHQ/AdminLTE).
 
-# Screenshots
+## Screenshots
 
 #### Sample Dashboard Page
-![](_screenshots/module-zero-core-template-ui-home.png)
+![](_screenshots/ui-home.png)
 
 #### User Creation Modal
-![](_screenshots/module-zero-core-template-ui-user-create-modal.png)
+![](_screenshots/ui-user-create-modal.png)
 
 #### Login Page
-![](_screenshots/module-zero-core-template-ui-login.png)
+![](_screenshots/ui-login.png)
 
 
 # License
